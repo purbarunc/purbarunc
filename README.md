@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Purbarun Chakrabarti
+An enthusiastic and passionate java backend developer from Kolkata,India
 <!--
 **purbarunc/purbarunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
