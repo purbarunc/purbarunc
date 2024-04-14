@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Spring Integrations
 - 💬 Ask me about Spring Boot
 - 📫 How to reach me
-- 📄 Know about my experiences [https://www.linkedin.com/in/shalaka-purandare/](https://www.linkedin.com/in/purbarunc/)
+- 📄 Know about my experiences https://www.linkedin.com/in/purbarunc/
 - ⚡ Fun fact: Coding is simple, but it's difficult to code simple.
 
