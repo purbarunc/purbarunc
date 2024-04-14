@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on Microservice Design Patterns
 - 🌱 I’m currently learning Spring Integrations
-- 💬 Ask me about Spring Boot
-- 📫 How to reach me
-- 📄 Know about my experiences https://www.linkedin.com/in/purbarunc/
+- 💬 Ask me about: Spring Boot
+- 📫 How to reach me: purbarun@gmail.com
+- 📄 Know about my experiences: https://www.linkedin.com/in/purbarunc/
 - ⚡ Fun fact: Coding is simple, but it's difficult to code simple.
 
