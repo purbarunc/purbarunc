@@ -294,7 +294,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66" rx="18" class="bubble" />
     <text x="15" y="27">I live in Kolkata, India where it’s supposed to be</text>
-    <text x="15" y="50">13° C and <tspan class="emoji">☁️</tspan> today.</text>
+    <text x="15" y="50">31? C and <tspan class="emoji">⛈</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -318,7 +318,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="456" height="66" rx="18" class="bubble" />
     <text x="15" y="27">I'm a Software Development Engineer.</text>
-    <text x="15" y="50">I've been at <a xlink:href="https://www.accenture.com/in-en">Accenture</a> for {accentureTime} now.</text>
+    <text x="15" y="50">I've been at <a xlink:href="https://www.accenture.com/in-en">Accenture</a> for about 3 years now.</text>
   </g>
 
   <!-- typing 4 -->
