@@ -5,6 +5,10 @@ on:
     - cron: "30 22 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  issues: write
+
 jobs:
   readme:
     runs-on: ubuntu-latest
@@ -14,14 +18,14 @@ jobs:
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v5
         with:
-          node-version: 18
+          node-version: 20
       - run: npm install
 
       - name: Generate readme
         run: node build-svg.js
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Purbarun Chakrabarti
           author_email: purbarun@gmail.com
