@@ -40,7 +40,7 @@ const LONGITUDE = 88.3639
 
 // Time working at Accenture
 const today = new Date()
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
+const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long', timeZone: 'Asia/Kolkata' }).format(
   today
 )
 
