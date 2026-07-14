@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
-      - name: Use Node.js ${{ matrix.node-version }}
+      - name: Use Node.js 20
         uses: actions/setup-node@v5
         with:
           node-version: 20
@@ -31,8 +31,6 @@ jobs:
           author_email: purbarun@gmail.com
           message: "Auto updating my readme"
           add: "*.svg"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create issue on failure
         if: failure()
